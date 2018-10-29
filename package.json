@@ -1,0 +1,24 @@
+{
+  "name": "convert-twigdoc-to-json",
+  "version": "0.0.1",
+  "description": "Convert twigdoc of pattern into json format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkoeppen/convert-twigdoc-to-json.git"
+  },
+  "keywords": [
+    "pattern",
+    "twigdoc",
+    "json"
+  ],
+  "author": "Markus Köppen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkoeppen/convert-twigdoc-to-json/issues"
+  },
+  "homepage": "https://github.com/mkoeppen/convert-twigdoc-to-json#readme"
+}

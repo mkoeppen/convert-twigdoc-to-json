@@ -1,6 +1,6 @@
 'use strict';
 
-const typeConverter = require("typeConverter")
+const typeConverter = require("./typeConverter")
 
 function constructorParameterConverter(twigContent, options) {
     var constructorParameter = [];
@@ -29,4 +29,4 @@ function constructorParameterConverter(twigContent, options) {
     return constructorParameter;
 }
 
-module.export = constructorParameterConverter;
+module.exports = constructorParameterConverter;

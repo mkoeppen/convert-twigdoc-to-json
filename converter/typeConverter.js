@@ -13,4 +13,4 @@ function typeConverter(type, destinationContext) {
     }
 }
 
-module.export = typeConverter;
+module.exports = typeConverter;

@@ -26,4 +26,4 @@ function variableConverter(twigContent, options) {
     return variables;
 }
 
-module.export = variableConverter;
+module.exports = variableConverter;

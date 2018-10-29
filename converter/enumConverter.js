@@ -25,8 +25,8 @@ function enumConverter(twigContent, options) {
         }) : []
       });
     });
-    
+
     return enums;
 }
 
-module.export = enumConverter;
+module.exports = enumConverter;

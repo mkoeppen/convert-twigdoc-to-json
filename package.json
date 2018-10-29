@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/mkoeppen/convert-twigdoc-to-json/issues"
   },
-  "homepage": "https://github.com/mkoeppen/convert-twigdoc-to-json#readme"
+  "homepage": "https://github.com/mkoeppen/convert-twigdoc-to-json#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "through2": "^2.0.3"
+  }
 }
